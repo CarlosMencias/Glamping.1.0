@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Glamping.POO/1.0.0": {
+        "dependencies": {
+          "Logica.Programa": "1.0.0"
+        },
+        "runtime": {
+          "Glamping.POO.dll": {}
+        }
+      },
+      "Logica.Programa/1.0.0": {
+        "runtime": {
+          "Logica.Programa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Glamping.POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logica.Programa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
